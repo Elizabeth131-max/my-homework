@@ -46,13 +46,14 @@ a {
   display: flex;
 }
 .icon {
-  width: 90px;
-  height: 48px;
+  width: 99px;
+  height: 70px;
+  margin-bottom: 10px;
 }
 .deg {
   font-size: 90px;
   font-weight: bold;
-  line-height: 90px;
+  line-height: 78px;
 }
 .degree {
   margin-top: 10px;
